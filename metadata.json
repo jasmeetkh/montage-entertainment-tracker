@@ -1,0 +1,8 @@
+{
+  "name": "Montage",
+  "description": "A fully functional entertainment tracker for movies, shows, and anime with stats and recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
